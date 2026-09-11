@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arg0s.github.io/snippets-c8t9e4/sitemap.xml
